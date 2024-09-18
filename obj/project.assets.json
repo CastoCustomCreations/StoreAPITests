@@ -9226,8 +9226,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\petcr.000\\Documents\\WebsiteTemplates\\StoreAngularASPNetCore\\StoreAPI\\StoreAPI.csproj": {
-              "projectPath": "C:\\Users\\petcr.000\\Documents\\WebsiteTemplates\\StoreAngularASPNetCore\\StoreAPI\\StoreAPI.csproj"
+            "c:\\Users\\petcr.000\\Documents\\WebsiteTemplates\\StoreAngularASPNetCore\\StoreAPI\\StoreAPI.csproj": {
+              "projectPath": "c:\\Users\\petcr.000\\Documents\\WebsiteTemplates\\StoreAngularASPNetCore\\StoreAPI\\StoreAPI.csproj"
             }
           }
         }
